@@ -1,0 +1,7 @@
+Folosește căști: Evită microfonia (țiuitul dintre boxe și microfon).
+
+Testează cu zgomot constant: Vorbește la 15–20 cm de microfon în timp ce există un zgomot de fond (ventilator, tastatură, foșnet).
+
+Verifică microfonul: Asigură-te că accesul la microfon este activat în Windows 11.
+
+Compară rezultatele: Ascultă audio_brut.wav vs. audio_filtrat.wav și urmărește tăierea frecvențelor pe graficul FFT.
